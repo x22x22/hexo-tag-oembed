@@ -23,6 +23,7 @@ npm install hexo-tag-oembed --save
 ## Embed RunKik
 
 Please add the following code in the footer section of the theme:
+
 My theme is next, so modify the _layout.swig file.
 
 ```html
